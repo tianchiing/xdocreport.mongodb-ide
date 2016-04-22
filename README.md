@@ -1,0 +1,1 @@
+xdocreport.mongodb-ide
